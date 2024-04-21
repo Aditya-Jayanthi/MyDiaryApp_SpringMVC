@@ -36,9 +36,6 @@
 			<a href="/MyDiaryApp/registerPage"> Click here to Register. </a>
 		</h4>
 	</div>
-	
-	<h3>Pick a date</h3>
-	<input type="date">
 
 </body>
 </html>
